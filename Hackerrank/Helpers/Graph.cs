@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hakerrank.Week._32
+namespace Hackerrank
 {
 
 }
