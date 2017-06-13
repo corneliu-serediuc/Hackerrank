@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Hackerrank
+﻿namespace Hackerrank
 {
     public partial class Solution
     {
-        private static void Main(string[] args)
-        {
-            Console.WriteLine("Current challenge to solve");
-        }
+        // public static void Main(string[] args)
+        // {
+        // Console.WriteLine("Current challenge to solve - Twin Array");
+        // }
     }
 }

@@ -46,6 +46,8 @@
     <Compile Include="Challenges\ArrayCounts.cs" />
     <Compile Include="Challenges\Week32\Duplication.cs" />
     <Compile Include="Challenges\Week32\FightTheMonsters.cs" />
+    <Compile Include="Challenges\Week33\PatternCount.cs" />
+    <Compile Include="Challenges\Week33\TwinArray.cs" />
     <Compile Include="Helpers\CircularLinkedList.cs" />
     <Compile Include="Helpers\Graph.cs" />
     <Compile Include="Helpers\MathExtensions.cs" />
