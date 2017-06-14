@@ -46,8 +46,9 @@
     <Compile Include="Challenges\ArrayCounts.cs" />
     <Compile Include="Challenges\Week32\Duplication.cs" />
     <Compile Include="Challenges\Week32\FightTheMonsters.cs" />
-    <Compile Include="Challenges\Week33\PatternCount.cs" />
-    <Compile Include="Challenges\Week33\TwinArray.cs" />
+    <Compile Include="Challenges\Week33\02_PatternCount.cs" />
+    <Compile Include="Challenges\Week33\01_TwinArray.cs" />
+    <Compile Include="Challenges\Week33\03_TransformToPalindrome.cs" />
     <Compile Include="Helpers\CircularLinkedList.cs" />
     <Compile Include="Helpers\Graph.cs" />
     <Compile Include="Helpers\MathExtensions.cs" />
@@ -59,6 +60,8 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Challenges\Week33\03_TransformToPalindrome_Text.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

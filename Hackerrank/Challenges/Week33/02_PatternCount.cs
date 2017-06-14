@@ -35,6 +35,7 @@ namespace Hackerrank
             return res;
         }
 
+        /*
         private static void Main(string[] args)
         {
             int res;
@@ -45,5 +46,6 @@ namespace Hackerrank
 
             Console.WriteLine(res);
         }
+        */
     }
 }
