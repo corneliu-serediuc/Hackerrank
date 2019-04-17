@@ -44,6 +44,12 @@
   <ItemGroup>
     <Compile Include="Challenges\AnagramDifference.cs" />
     <Compile Include="Challenges\ArrayCounts.cs" />
+    <Compile Include="Challenges\UiPath\Problem1.cs" />
+    <Compile Include="Challenges\UiPath\Problem2.cs" />
+    <Compile Include="Challenges\UiPath\Problem3.cs" />
+    <Compile Include="Challenges\WarmUp\CountingValleys.cs" />
+    <Compile Include="Challenges\WarmUp\JumpOnTheClouds.cs" />
+    <Compile Include="Challenges\WarmUp\SockMerchant.cs" />
     <Compile Include="Challenges\Week32\Duplication.cs" />
     <Compile Include="Challenges\Week32\FightTheMonsters.cs" />
     <Compile Include="Challenges\Week33\02_PatternCount.cs" />
@@ -61,7 +67,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Challenges\WarmUp\CountingValleys_text.png" />
+    <Content Include="Challenges\WarmUp\JumpOnTheClouds_text.png" />
+    <Content Include="Challenges\WarmUp\SockMerchant_Text.png" />
     <Content Include="Challenges\Week33\03_TransformToPalindrome_Text.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
